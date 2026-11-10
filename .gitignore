@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Downloaded StatsBomb data (re-created by run_pipeline.py)
+data/cache/
+
+# Large intermediate table (regenerated); keep figures, small tables and dashboard/data.js
+outputs/tables/shots.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.vercel

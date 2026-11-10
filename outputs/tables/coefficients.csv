@@ -1,0 +1,37 @@
+feature,coef
+distance,-0.9397
+nearest_opp_dist,0.4095
+angle,0.2832
+defenders_in_cone,-0.2828
+lateral_offset,-0.2795
+gk_dist_to_goal,0.2301
+body_part = Head,-0.1724
+body_part = Foot,0.1677
+"play_pattern = rare (<30 shots, pooled)",-0.1164
+aerial_won,-0.1047
+technique = Diving Header,0.1009
+technique = Overhead Kick,-0.1009
+technique = Normal,0.0978
+technique = Volley,-0.0863
+one_on_one,0.0835
+"shot_type = rare (<30 shots, pooled)",0.0811
+shot_type = Open Play,-0.0633
+technique = Half Volley,-0.0625
+technique = Lob,0.0594
+shot_type = Free Kick,0.0593
+open_goal,0.0571
+under_pressure,0.0519
+play_pattern = From Corner,-0.0504
+play_pattern = From Counter,0.0499
+gk_in_cone,-0.0462
+play_pattern = From Kick Off,0.0364
+"body_part = rare (<30 shots, pooled)",0.0353
+play_pattern = From Throw In,0.0322
+technique = Backheel,-0.0230
+play_pattern = From Goal Kick,-0.0183
+play_pattern = From Keeper,0.0101
+play_pattern = From Free Kick,-0.0085
+first_time,0.0077
+follows_dribble,-0.0035
+play_pattern = Regular Play,0.0034
+has_freeze_frame,0.0000

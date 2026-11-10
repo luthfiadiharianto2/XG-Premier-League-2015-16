@@ -1,0 +1,5 @@
+comparison,delta,ci_low,ci_high,p_better
+2 · Logreg: + shot context vs model 1,-0.0140,-0.0181,-0.0104,1.0000
+3 · Logreg: + freeze-frame vs model 1,-0.0195,-0.0241,-0.0153,1.0000
+4 · HistGradientBoosting (all features) vs model 1,-0.0126,-0.0185,-0.0071,1.0000
+3 · Logreg: + freeze-frame vs StatsBomb xG,0.0065,0.0026,0.0099,0.0000
